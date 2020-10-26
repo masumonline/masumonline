@@ -8,11 +8,11 @@
 
 ## I'm a Developer, Designer and IOT tinkerer!!
 
-- 🔭 Currently Working on Cyber Security [office]!
+- 🔭 Currently Working on Cyber Security [dhakadistributions]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m Learning Node and Express
+- 🥅 2020 Goals: Create a CMS using Laravel
+- ⚡ Fun fact: I love to create and play with Arduino and Raspberry pi
 
 ### Connect with me:
 
@@ -40,6 +40,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
@@ -58,4 +59,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [vuejs]: https://www.youtube.com/playlist?list=PLEhEHUEU3x5q-xB1On4CsLPts0-rZ9oos
 [laravel]: https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
-[office]: https:///dhakadistributions.com
+[dhakadistributions]: https:///dhakadistributions.com
