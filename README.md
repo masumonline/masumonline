@@ -48,8 +48,6 @@
     <img align="left" alt="masumonline"  src="https://github-readme-stats.masumonline.vercel.app/api?username=masumonline&show_icon=true&hide_border=true" />
 </details>
 
----
-
 [website]: https://activelava.net
 [twitter]: https://twitter.com/masumonline
 [linkedin]: https://linkedin.com/in/masumonline
