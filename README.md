@@ -2,9 +2,9 @@
 
 [![Website](https://activelava.net/storage/photos/shares/logo.png)](https://activelava.net)
 
-![Website](https://img.shields.io/website?label=Activelava.net&style=for-the-badge&url=https%3A%2F%2Factivelava.net)
-![GitHub followers](https://img.shields.io/github/followers/masumonline?logo=github&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/masumonline?color=blue&logo=twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=Activelava.net&style=for-the-badge&url=https%3A%2F%2Factivelava.net)][website]
+[![GitHub followers](https://img.shields.io/github/followers/masumonline?logo=github&style=for-the-badge)][github]
+[![Twitter Follow](https://img.shields.io/twitter/follow/masumonline?color=blue&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Developer, Designer and IOT tinkerer!!
 
@@ -60,3 +60,4 @@
 [vuejs]: https://www.youtube.com/playlist?list=PLEhEHUEU3x5q-xB1On4CsLPts0-rZ9oos
 [laravel]: https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
 [dhakadistributions]: https:///dhakadistributions.com
+[github]: https://github.com/masumonline
