@@ -2,6 +2,10 @@
 
 [![Website](https://activelava.net/storage/photos/shares/logo.png)](https://activelava.net)
 
+![Website](https://img.shields.io/website?label=Activelava.net&style=for-the-badge&url=https%3A%2F%2Factivelava.net)
+![GitHub followers](https://img.shields.io/github/followers/masumonline?logo=github&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/masumonline?color=blue&logo=twitter&style=for-the-badge)
+
 ## I'm a Developer, Designer and IOT tinkerer!!
 
 - 🔭 Currently Working on Cyber Security [office]!
@@ -9,15 +13,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
----
-
-<details>
-    <summary>:zap: Github Profile Status</summary>
-    <img align="left" alt="masumonline"  src="https://github-readme-stats.masumonline.vercel.app/api?username=masumonline&show_icon=true&hide_border=true" />
-</details>
-
----
 
 ### Connect with me:
 
@@ -45,6 +40,14 @@
 
 <br />
 <br />
+---
+
+<details>
+    <summary>:zap: Github Profile Status</summary>
+    <img align="left" alt="masumonline"  src="https://github-readme-stats.masumonline.vercel.app/api?username=masumonline&show_icon=true&hide_border=true" />
+</details>
+
+---
 
 [website]: https://activelava.net
 [twitter]: https://twitter.com/masumonline
