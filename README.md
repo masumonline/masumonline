@@ -8,7 +8,7 @@
 
 ## I'm a Developer, Designer and IOT tinkerer!!
 
-- 🔭 Currently Working on Cyber Security [dhakadistributions]!
+- 🔭 Currently Working on a Cyber Security Company [dhakadistributions]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Learning Node and Express
 - 🥅 2020 Goals: Create a CMS using Laravel
