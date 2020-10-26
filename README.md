@@ -14,13 +14,6 @@
 - 🥅 2020 Goals: Create a CMS using Laravel
 - ⚡ Fun fact: I love to create and play with Arduino and Raspberry pi
 
----
-
-<summary>:zap: Github Profile Status</summary>
-<img align="left" alt="masumonline"  src="https://github-readme-stats.masumonline.vercel.app/api?username=masumonline&show_icon=true&hide_border=true" />
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,6 +40,11 @@
 
 <br />
 <br />
+
+---
+
+<summary>:zap: Github Profile Status</summary>
+<img align="left" alt="masumonline"  src="https://github-readme-stats.masumonline.vercel.app/api?username=masumonline&show_icon=true&hide_border=true" />
 
 [website]: https://activelava.net
 [twitter]: https://twitter.com/masumonline
