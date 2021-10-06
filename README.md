@@ -1,6 +1,7 @@
 ### Hi there, I'm Riaz Uddin Masum - from [Activelava][website] 👋
+<a href="https://app.daily.dev/masum"><img src="https://api.daily.dev/devcards/da6860cf10d44581875574a558f4b2a5.png?r=26r" width="400" alt="Riaz Uddin Masum's Dev Card"/></a>
 
-[![Website](https://activelava.net/storage/photos/shares/logo.png)](https://activelava.net)
+[![Website](https://activelava.net/content/images/2021/08/logo.png)](https://activelava.net)
 
 [![Website](https://img.shields.io/website?label=Activelava.net&style=for-the-badge&url=https%3A%2F%2Factivelava.net)][website]
 [![GitHub followers](https://img.shields.io/github/followers/masumonline?logo=github&style=for-the-badge)][github]
